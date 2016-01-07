@@ -1,0 +1,12 @@
+一个跨语言的RPC调用demo
+
+Python Client
+Java Server
+
+所需jar包：
+
+libthrift-0.9.2.jar
+log4j-1.2.15.jar
+slf4j-api-1.6.0.jar
+
+Python 版本2.7

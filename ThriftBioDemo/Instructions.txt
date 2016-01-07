@@ -1,0 +1,6 @@
+Thrift多线程阻塞式RPC调用
+
+所用jar包：
+libthrift-0.7.0.jar
+log4j-1.2.15.jar
+slf4j-api-1.6.0.jar
